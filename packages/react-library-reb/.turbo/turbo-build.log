@@ -1,0 +1,8 @@
+
+> react-library-reb@0.0.0 build C:\Users\Rebeca\Documents\pocomponents\packages\react-library-reb
+> npm run tsc
+
+
+> react-library-reb@0.0.0 tsc
+> tsc -p .
+

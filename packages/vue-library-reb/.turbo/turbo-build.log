@@ -1,0 +1,8 @@
+
+> vue-library-reb@0.0.0 build C:\Users\Rebeca\Documents\pocomponents\packages\vue-library-reb
+> npm run tsc
+
+
+> vue-library-reb@0.0.0 tsc
+> tsc -p .
+

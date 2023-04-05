@@ -1,0 +1,20 @@
+{
+  "version": "0.0.0",
+  "name": "vue-library-reb",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "npm run tsc",
+    "tsc": "tsc -p ."
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "stencil-library": "*"
+  },
+  "devDependencies": {
+    "vue": "3"
+  }
+}
